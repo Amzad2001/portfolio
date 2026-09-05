@@ -79,7 +79,7 @@ const SOCIALS = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/amzadshaiksoftwaredeveloper/",
     Icon: FaLinkedin,
     hoverClass:
       "hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-300/50 dark:hover:border-blue-400/30 hover:bg-blue-50 dark:hover:bg-blue-400/8",
